@@ -1,0 +1,53 @@
+body {
+    font-family: Verdana, Arial;
+    margin: 25px 25px 0px 25px; 
+}
+
+h1 {
+    font-size: 48px;
+    color: #0000FF; 
+    padding: 15px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 24px;
+    padding: 0px 0px 15px 15px;
+}
+
+img {
+    width: 350px;
+    border: 10px #000000 dashed;
+}
+
+div {
+    min-height: 100px;
+    padding: 20px;
+    border: 3px #fff solid;
+}
+
+span {
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+footer {
+    background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
+}
+
+.red {
+    background-color: #db5c5c;
+    text-align: right;
+    margin-left: 50px;
+    border-width: 0px 0px 3px 10px;
+}
+
+.blue {
+    background-color: #7dc2d9;
+    text-align: left;
+    margin-right: 50px;
+    border-width: 0px 10px 3px 0px;
+}
